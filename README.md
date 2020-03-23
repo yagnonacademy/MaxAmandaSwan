@@ -1,0 +1,2 @@
+# MaxAmandaSwan
+for java project
